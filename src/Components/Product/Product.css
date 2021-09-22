@@ -2,9 +2,18 @@
       display: flex; 
       border-bottom: 1px solid lightgray; 
       margin-right:10px ;
-      margin-bottom: 10px;       
+      margin-bottom: 10px; 
+      padding: 10px;      
 }
 .pro-name{
                color: blue;
                font-weight: 400px;
+}
+.button-cart{
+               background-color: rgb(233, 163, 33);
+               width: 150px;
+               height: 30px;
+               border:1px solid gray;
+               border-radius: 3px;
+               color:black;
 }
