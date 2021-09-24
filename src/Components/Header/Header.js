@@ -11,7 +11,10 @@ const Header = () => {
                               <a href="/orders">Order Review</a>
                               <a href="/inventiry">Manage Inventory</a>
                               </nav>                                    
-                                      
+                              <div className='search-field'>
+        <input className='search-area'  type="text" />
+</div>
+   
                               </div>
                );
 };

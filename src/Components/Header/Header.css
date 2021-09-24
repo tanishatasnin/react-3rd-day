@@ -12,6 +12,13 @@
                font-size: 20px;
                padding: 10px;
 }
+.search-field{
+               background-color: black;
+               padding:10px ;
+}
+.search-area{
+               width: 500px;
+}
 .header nav a:hover{
                background-color:lightgrey;
 }
